@@ -1,0 +1,17 @@
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net8.0\NetCoreAI.Project3_RapidApi.exe
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net8.0\NetCoreAI.Project3_RapidApi.deps.json
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net8.0\NetCoreAI.Project3_RapidApi.runtimeconfig.json
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net8.0\NetCoreAI.Project3_RapidApi.dll
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net8.0\NetCoreAI.Project3_RapidApi.pdb
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.AssemblyInfoInputs.cache
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.AssemblyInfo.cs
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.csproj.CoreCompileInputs.cache
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.dll
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\refint\NetCoreAI.Project3_RapidApi.dll
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.pdb
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.genruntimeconfig.cache
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\ref\NetCoreAI.Project3_RapidApi.dll
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreAI.Project3_RapidApi.csproj.AssemblyReference.cache
+D:\Yedek\C# .NET İle Yapay Zeka Entegrasyonları\NetCoreAI\NetCoreAI.Project3_RapidApi\obj\Debug\net8.0\NetCoreA.D55B1F81.Up2Date
